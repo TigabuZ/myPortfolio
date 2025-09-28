@@ -32,7 +32,7 @@ header p {
 
 /* Navigation styles */
 nav {
-    background: #4a4e69;
+    background: #0202b7;
     padding: 0.5rem 0;
     text-align: center;
 }
@@ -60,7 +60,7 @@ section {
 }
 
 section h2 {
-    color: #22223b;
+    color: #0202b7;
     margin-bottom: 1rem;
     font-size: 2rem;
     border-bottom: 2px solid #c9ada7;
@@ -97,11 +97,11 @@ section li {
 
 .project-card h3 {
     margin-bottom: 0.5rem;
-    color: #4a4e69;
+    color: #0202b7;
 }
 
 .project-card p {
-    color: #222;
+    color: #0202b7;
     font-size: 1rem;
 }
 
