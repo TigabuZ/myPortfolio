@@ -1,3 +1,16 @@
+/* Align navigation menu horizontally */
+nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    margin: 0 1rem;
+}
 /* Reset some default styles */
 * {
     margin: 0;
